@@ -1,10 +1,10 @@
 # frontent-interview-js
-javascript interview Questions
+# javascript interview Questions
 
-Please go through javascript.info for in depth knowledge of javascript first.
+# NOTE:  Please go through https://javascript.info/ for in depth knowledge of javascript first.
 
 
-- Type conversions [Type Conversions](https://javascript.info/type-conversions)
+- Type conversions https://javascript.info/type-conversions
 	* Number + Number -> Addition
 	* Boolean + Number -> Addition
 	* Boolean + Number -> Addition
@@ -97,18 +97,19 @@ Below are point to improve performance:
 	- caching techniques
 	- offline
 	- push notification
-- 	web worker
-- - PWA
+  - web worker
+- PWA
 	- https://scotch.io/tutorials/how-to-make-your-existing-react-app-progressive-in-10-minutes
 	- [How to add a Web App Manifest and mobile-proof your site](https://medium.com/dev-channel/how-to-add-a-web-app-manifest-and-mobile-proof-your-site-450e6e485638)
 - Website rendering in browsers [DOM creation and CSSOM]
 - read about caching in browser and what to cache and how to cache
 - Http 
-	- Methods
+	- Methods -> read their difference
 	- https
 	- 	https1. and https2 differences
 	- websockets
 	- SSE
+- CORS
 - - Memory management in JS
 	-  [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 	- [Beyond Memory Leaks in JavaScript - OutSystems Experts - Medium](https://medium.com/outsystems-experts/beyond-memory-leaks-in-javascript-d27fd48ae67e)
@@ -119,12 +120,10 @@ Below are point to improve performance:
 
 
 
-- __proto__ is not a property of an object, but an accessor property of Object.prototype:
-__proto__ is read or set, the corresponding getter/setter is called from its prototype, and it gets/sets [[Prototype]].
 
 
 
-Links/ Questions :
+# Links/ Questions :
 - synchronise a sequence of async functions : You have array of async function and you need to call them in sync manner
 - How to clone an object in Javascript?
 - JSON.stringify polypill
@@ -201,15 +200,15 @@ function flattenObject(ob) {
 	- Udacity -> CRP 
 
 
-*SYSTEM DESIGN*
-Read about this about this. What is system designing is.  
+# SYSTEM DESIGN
+Read about this about this. What is system designing? 
 	- Design warehouse management system
 	- Snakes and ladder problem
 	- design a type-ahead
 	- design a food app
 	- design Instagram
 
-ALGO: 
+# DS/ALGO: 
 You will only be able to solve DS algo questions if you will practice.
 
 - Sorting
