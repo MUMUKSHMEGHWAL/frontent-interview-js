@@ -191,7 +191,8 @@ function flattenObject(ob) {
     }
     return toReturn;
 }
-- LRU cache implementation  
+- LRU cache implementation
+- https://gist.github.com/gs-ysingh/733832f9b23de5dabe7bc6c921d22abc (important link for JS preparation)
 -  React Questions : [GitHub - sudheerj/reactjs-interview-questions: List of top 500 ReactJS Interview Questions & Answers….Coding exercise questions are coming soon!!](https://github.com/sudheerj/reactjs-interview-questions)
 
 -  Javascript basics: [GitHub - ganqqwerty/123-Essential-JavaScript-Interview-Questions: JavaScript interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
