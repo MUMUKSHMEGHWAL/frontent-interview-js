@@ -56,7 +56,8 @@
 - async await, promise, generator functions (What is relationship between these)
 	- Create your own runner function for generator function
 	- async await polyfill 
-	- Promise polypill  	
+	- Promise polypill
+		- https://brunoscopelliti.com/lets-write-a-promise-polyfill/
 		- [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 		- [ES6 Promise polyfill · GitHub](https://gist.github.com/Rich-Harris/11010768)	
 		- [How to escape Promise Hell - Ronald Chen - Medium](https://medium.com/@pyrolistical/how-to-get-out-of-promise-hell-8c20e0ab0513)
